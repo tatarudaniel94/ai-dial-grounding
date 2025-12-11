@@ -41,12 +41,12 @@ task/
 ├── _constants.py             ✅ API configuration
 ├── user_client.py            ✅ User service client
 ├── t1/
-│   └── no_grounding.py       🚧 1: No grounding
+│   └── no_grounding.py       ✅ 1: No grounding
 ├── t2/
-│   ├── Input_vector_based.py 🚧 2.1: Vector-based input grounding  
-│   └── input_api_based.py    🚧 2.2: API-based input grounding
+│   ├── Input_vector_based.py ✅ 2.1: Vector-based input grounding  
+│   └── input_api_based.py    ✅ 2.2: API-based input grounding
 └── t3/
-    └── in_out_grounding.py   🚧 3: Input-output grounding
+    └── in_out_grounding.py   ✅ 3: Input-output grounding
 ```
 
 ## 📊 Grounding Approaches
